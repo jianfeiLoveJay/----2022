@@ -1,0 +1,80 @@
+Date : 2022-08-29 22:02:28
+Directory : d:\WebTech\teach-server-client\teach-client
+Total : 39 files,  27567 codes, 1092 comments, 290 blanks, all 28949 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |     24,642 |          0 |          3 |     24,645 |
+| Vue        |         24 |      2,448 |      1,021 |        203 |      3,672 |
+| JavaScript |          9 |        394 |         70 |         46 |        510 |
+| Markdown   |          2 |         67 |          0 |         37 |        104 |
+| HTML       |          1 |         16 |          1 |          1 |         18 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                    | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                       |         39 |     27,567 |      1,092 |        290 |     28,949 |
+| public                                                                                  |          1 |         16 |          1 |          1 |         18 |
+| src                                                                                     |         29 |      2,779 |      1,090 |        240 |      4,109 |
+| src\components                                                                          |          6 |        295 |         25 |         21 |        341 |
+| src\router                                                                              |          1 |         86 |         52 |          7 |        145 |
+| src\service                                                                             |          2 |        154 |          9 |         18 |        181 |
+| src\store                                                                               |          1 |         73 |          7 |          4 |         84 |
+| src\views                                                                               |         17 |      2,126 |        996 |        177 |      3,299 |
+| src\views\admin                                                                         |          2 |        640 |        100 |         62 |        802 |
+| src\views\common                                                                        |          6 |        520 |          6 |         14 |        540 |
+| src\views\customer                                                                      |          4 |        966 |         63 |         96 |      1,125 |
+| src\views\student                                                                       |          2 |          0 |        318 |          2 |        320 |
+| src\views\teacher                                                                       |          3 |          0 |        509 |          3 |        512 |
+| union-value                                                                             |          3 |        171 |          0 |         35 |        206 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\WebTech\teach-server-client\teach-client\.eslintrc.js                                | JavaScript |         17 |          0 |          1 |         18 |
+| d:\WebTech\teach-server-client\teach-client\README.md                                   | Markdown   |         22 |          0 |          9 |         31 |
+| d:\WebTech\teach-server-client\teach-client\babel.config.js                             | JavaScript |          5 |          0 |          1 |          6 |
+| d:\WebTech\teach-server-client\teach-client\package-lock.json                           | JSON       |     24,510 |          0 |          1 |     24,511 |
+| d:\WebTech\teach-server-client\teach-client\package.json                                | JSON       |         31 |          0 |          1 |         32 |
+| d:\WebTech\teach-server-client\teach-client\public\index.html                           | HTML       |         16 |          1 |          1 |         18 |
+| d:\WebTech\teach-server-client\teach-client\src\App.vue                                 | Vue        |         27 |          0 |          5 |         32 |
+| d:\WebTech\teach-server-client\teach-client\src\components\Head.vue                     | Vue        |         54 |          0 |          2 |         56 |
+| d:\WebTech\teach-server-client\teach-client\src\components\Headadmin.vue                | Vue        |         54 |          0 |          2 |         56 |
+| d:\WebTech\teach-server-client\teach-client\src\components\Home.vue                     | Vue        |         24 |          0 |          2 |         26 |
+| d:\WebTech\teach-server-client\teach-client\src\components\Homeadmin.vue                | Vue        |         24 |          0 |          2 |         26 |
+| d:\WebTech\teach-server-client\teach-client\src\components\Menu.vue                     | Vue        |         72 |         25 |          8 |        105 |
+| d:\WebTech\teach-server-client\teach-client\src\components\Menuadmin.vue                | Vue        |         67 |          0 |          5 |         72 |
+| d:\WebTech\teach-server-client\teach-client\src\main.js                                 | JavaScript |         18 |          1 |          8 |         27 |
+| d:\WebTech\teach-server-client\teach-client\src\router\index.js                         | JavaScript |         86 |         52 |          7 |        145 |
+| d:\WebTech\teach-server-client\teach-client\src\service\genServ.js                      | JavaScript |         91 |          9 |         11 |        111 |
+| d:\WebTech\teach-server-client\teach-client\src\service\userServ.js                     | JavaScript |         63 |          0 |          7 |         70 |
+| d:\WebTech\teach-server-client\teach-client\src\store\createStore.js                    | JavaScript |         73 |          7 |          4 |         84 |
+| d:\WebTech\teach-server-client\teach-client\src\views\admin\order_management.vue        | Vue        |        230 |         24 |         23 |        277 |
+| d:\WebTech\teach-server-client\teach-client\src\views\admin\train_management.vue        | Vue        |        410 |         76 |         39 |        525 |
+| d:\WebTech\teach-server-client\teach-client\src\views\common\changePassword.vue         | Vue        |        125 |          0 |          3 |        128 |
+| d:\WebTech\teach-server-client\teach-client\src\views\common\changePasswordadmin.vue    | Vue        |        125 |          0 |          2 |        127 |
+| d:\WebTech\teach-server-client\teach-client\src\views\common\initial.vue                | Vue        |          3 |          0 |          0 |          3 |
+| d:\WebTech\teach-server-client\teach-client\src\views\common\initialadmin.vue           | Vue        |          3 |          0 |          0 |          3 |
+| d:\WebTech\teach-server-client\teach-client\src\views\common\login.vue                  | Vue        |        101 |          3 |          4 |        108 |
+| d:\WebTech\teach-server-client\teach-client\src\views\common\signup.vue                 | Vue        |        163 |          3 |          5 |        171 |
+| d:\WebTech\teach-server-client\teach-client\src\views\customer\nonstop_train.vue        | Vue        |        259 |         30 |         26 |        315 |
+| d:\WebTech\teach-server-client\teach-client\src\views\customer\order_form.vue           | Vue        |        302 |          7 |         34 |        343 |
+| d:\WebTech\teach-server-client\teach-client\src\views\customer\personal_information.vue | Vue        |        162 |          6 |         11 |        179 |
+| d:\WebTech\teach-server-client\teach-client\src\views\customer\transfer_train.vue       | Vue        |        243 |         20 |         25 |        288 |
+| d:\WebTech\teach-server-client\teach-client\src\views\student\markpage.vue              | Vue        |          0 |        124 |          1 |        125 |
+| d:\WebTech\teach-server-client\teach-client\src\views\student\schedule.vue              | Vue        |          0 |        194 |          1 |        195 |
+| d:\WebTech\teach-server-client\teach-client\src\views\teacher\CourseEdit.vue            | Vue        |          0 |        165 |          1 |        166 |
+| d:\WebTech\teach-server-client\teach-client\src\views\teacher\givemark.vue              | Vue        |          0 |        177 |          1 |        178 |
+| d:\WebTech\teach-server-client\teach-client\src\views\teacher\mycourse.vue              | Vue        |          0 |        167 |          1 |        168 |
+| d:\WebTech\teach-server-client\teach-client\union-value\README.md                       | Markdown   |         45 |          0 |         28 |         73 |
+| d:\WebTech\teach-server-client\teach-client\union-value\index.js                        | JavaScript |         25 |          0 |          6 |         31 |
+| d:\WebTech\teach-server-client\teach-client\union-value\package.json                    | JSON       |        101 |          0 |          1 |        102 |
+| d:\WebTech\teach-server-client\teach-client\vue.config.js                               | JavaScript |         16 |          1 |          1 |         18 |
+| Total                                                                                   |            |     27,567 |      1,092 |        290 |     28,949 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
